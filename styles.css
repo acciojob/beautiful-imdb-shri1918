@@ -7,9 +7,12 @@ h1:hover{
 	text-shadow: 0 0 5px #ff0000;
 font-size:50px;
 }
-p:hover{
-	text-shadow: 0 0 5px #ff0000;
-	font-size:30px;
+.movieDetail{
+	position:static;
+		top:50px;
+	width:400px;
+	text-align:center;
+	font-size:10px;
 }
 .moviePic{
 margin:0;
